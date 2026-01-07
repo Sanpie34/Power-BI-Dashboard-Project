@@ -20,13 +20,13 @@ This project was a journey through key Power BI features. Here's a look at what 
 # Dashboard
 ### Page 1
 
-![Page_1_Dashboard.png](/Images\Page_1_Dashboard.png)
+![Page_1_Dashboard.png](/Images/Page_1_Dashboard.png)
 
 This dashboard serves as a central hub for exploring the data job market, highlighting key KPIs such as total job count, median salaries, and leading job titles to provide a clear snapshot of market conditions at a glance.
 
 ### Page 2
 
-![Page_2_Job_Title_Drill_Through.png](/Images\Page_2_Job_Title_Drill_Through.png)
+![Page_2_Job_Title_Drill_Through.png](/Images/Page_2_Job_Title_Drill_Through.png)
 
 This page provides a detailed deep-dive view. From the main dashboard, users can drill through to explore role-specific insights, including salary ranges, remote work statistics, top hiring platforms, and a global map of job locations.
 
